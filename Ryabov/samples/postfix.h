@@ -28,5 +28,5 @@ public:
   string getInf() { return inf; }
   string getPostf() { return postf; }
   string ToPostf();
-  double Calcu(); 
+  double Calc(); 
 };
